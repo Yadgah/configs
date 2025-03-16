@@ -1,2 +1,2 @@
 # configs
-configuration
+Yadgah server, setting's configuration
